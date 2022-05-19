@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://kakirain.github.io</id>
+    <title>柿</title>
+    <updated>2022-05-19T17:49:22.305Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://kakirain.github.io"/>
+    <link rel="self" href="http://kakirain.github.io/atom.xml"/>
+    <subtitle>葡萄萨婆诃</subtitle>
+    <logo>http://kakirain.github.io/images/avatar.png</logo>
+    <icon>http://kakirain.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 柿</rights>
+    <entry>
+        <title type="html"><![CDATA[质子]]></title>
+        <id>http://kakirain.github.io/post/Ovmd8nFV6/</id>
+        <link href="http://kakirain.github.io/post/Ovmd8nFV6/">
+        </link>
+        <updated>2022-05-19T11:37:18.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[功德]]></title>
+        <id>http://kakirain.github.io/post/9wQjZRQ7e/</id>
+        <link href="http://kakirain.github.io/post/9wQjZRQ7e/">
+        </link>
+        <updated>2022-05-19T05:41:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>丧夫三年的陇西贵女李皎应二弟邀请到他供职的和阗散心，意外在崑崙山脚结识了回鹘采玉女孩阿依努尔。<br>
+回到洛阳两年，仍难忘对方明艳双眼。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>丧夫三年的陇西贵女李皎应二弟邀请到他供职的和阗散心，意外在崑崙山脚结识了回鹘采玉女孩阿依努尔。<br>
+回到洛阳两年，仍难忘对方明艳双眼。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>http://kakirain.github.io/post/hello-gridea/</id>
+        <link href="http://kakirain.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
